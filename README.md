@@ -90,8 +90,13 @@ FILE_NAME -- имя файла для сохранения.
 	
 ## Выполнения программ:
 Каждая из программ ("mainKirg.m", "run_random_walk.m", "theoretical_random_walk.m") запускаются по одному сценарию:
-	"octave <PROGRAM_NAME.m> <FILE_NAME.dat> <V1> <V2>", где
-		PROGRAM_NAME.m -- имя программы,
-		FILE_NAME.dat -- имя файла с матрицей смежности,
-		V1 -- номер начальной вершины,
-		V2 -- номер конечной вершины.
+
+	"octave <PROGRAM_NAME.m> <FILE_NAME.dat> <V1> <V2>"
+ 
+PROGRAM_NAME.m -- имя программы,
+		
+FILE_NAME.dat -- имя файла с матрицей смежности,
+		
+V1 -- номер начальной вершины,
+		
+V2 -- номер конечной вершины.
