@@ -79,10 +79,14 @@ theoretical_random_walk.m -- octave скрипт для теоретическо
 30.dat -- граф с 3000 вершинами.
 		
 Для генерации графа с другим параметрами выполните команду:
-	"make generate NUM_VERTICES=<int> MAX_DEGREE=<int> FILE_NAME=<string>.dat", где
-		NUM_VERTICES -- количество вершин, 
-		MAX_DEGREE -- максимальная степень вершины, 
-		FILE_NAME -- имя файла для сохранения.
+
+	"make generate NUM_VERTICES=<int> MAX_DEGREE=<int> FILE_NAME=<string>.dat"
+ 
+NUM_VERTICES -- количество вершин, 
+		
+MAX_DEGREE -- максимальная степень вершины, 
+		
+FILE_NAME -- имя файла для сохранения.
 	
 ## Выполнения программ:
 Каждая из программ ("mainKirg.m", "run_random_walk.m", "theoretical_random_walk.m") запускаются по одному сценарию:
