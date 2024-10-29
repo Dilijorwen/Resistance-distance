@@ -102,5 +102,5 @@ V1 -- номер начальной вершины,
 V2 -- номер конечной вершины.
 
 # Работали над крусовой
-[Вершини Данил(NDaVS)](https://github.com/NDaVS)
-[Пелагеев Даниил(Garmsy)](https://github.com/Dilijorwen)
+- [Вершини Данил(NDaVS)](https://github.com/NDaVS)
+- [Пелагеев Даниил(Garmsy)](https://github.com/Dilijorwen)
